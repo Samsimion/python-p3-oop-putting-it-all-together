@@ -5,6 +5,7 @@ from book import Book
 import io
 import sys
 
+
 class TestBook:
     '''Book in book.py'''
 
